@@ -5,7 +5,7 @@ This repository contains a comprehensive Exploratory Data Analysis (EDA) of stoc
 🔍 Overview
 The project aims to:
 
-Clean and preprocess raw Excel data.
+Clean and preprocess raw Excel data.    
 
 Compare opening stock levels between 2022 and 2023.
 
