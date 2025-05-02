@@ -2,7 +2,7 @@
 📊 Stock Data Analysis
 This repository contains a comprehensive Exploratory Data Analysis (EDA) of stock inventory data over two consecutive years (2022 and 2023). The analysis includes data cleaning, summary statistics, correlation analysis, and insightful visualizations to understand trends and patterns in stock management.
 
-🔍 Overview
+🔍 Overview   
 The project aims to:
 
 Clean and preprocess raw Excel data.
