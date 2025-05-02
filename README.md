@@ -55,7 +55,7 @@ Top 10 Most Issued Items
 Year-over-Year Stock Change Histogram
 
 📌 Future Enhancements
-Add interactive dashboards with Plotly or Streamlit
+Add interactive dashboards with Plotly or Streamlit   
 
 Include anomaly detection or forecasting
 
