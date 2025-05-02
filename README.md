@@ -46,7 +46,7 @@ plotly.express – Interactive plots (optional, included for future expansion)
 📈 Key Visualizations
 Correlation Heatmap – Understand relationships between numerical columns
 
-Opening Stock Distribution (2022 vs 2023)
+Opening Stock Distribution (2022 vs 2023)    
 
 Issue Quantity Distribution
 
